@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
-    "name": "Google Container",
-    "version": "1.5.4",
+    "name": "Yandex Container",
+    "version": "1.0.0",
 
-    "description": "Google Container isolates your Google activity from the rest of your web activity in order to prevent Google from tracking you outside of the Google website via third party cookies.",
+    "description": "Yandex Container isolates your Yandex activity from the rest of your web activity in order to prevent Yandex from tracking you outside of the Yandex website via third party cookies.",
 
     "icons": {
         "48": "icon.png",
@@ -12,12 +12,12 @@
 
     "applications": {
       "gecko": {
-        "id": "@contain-google",
+        "id": "@contain-yandex",
         "strict_min_version": "57.0"
       }
     },
 
-    "homepage_url": "https://github.com/containers-everywhere/contain-google",
+    "homepage_url": "https://github.com/Lumaeris/contain-yandex",
 
     "permissions": [
         "<all_urls>",
