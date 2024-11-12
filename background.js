@@ -4,7 +4,7 @@ const YANDEX_CONTAINER_COLOR = "red";
 const YANDEX_CONTAINER_ICON = "briefcase";
 
 let YANDEX_DOMAINS = [
-  "ya.ru", "yandex.ru", "yandex.net", "yastatic.net", "naydex.net", "yandexcloud.net", "static-storage.net", "yastat.net", "z5h64q92x9.net", "ir.yandex", "yandex-team.ru", "yandex-team.com", "yandex.com.ru", "clstorage.net", "yandex.rs", "ya.rs"
+  "ya.ru", "yandex.ru", "yandex.net", "yastatic.net", "naydex.net", "yandexcloud.net", "yandex.cloud", "static-storage.net", "yastat.net", "z5h64q92x9.net", "ir.yandex", "yandex-team.ru", "yandex-team.com", "yandex.com.ru", "clstorage.net", "yandex.rs", "ya.rs"
 ];
 
 const YANDEX_INTL_DOMAINS = [
@@ -20,7 +20,7 @@ const INTERTECH_DOMAINS = [
 ];
 
 const AD_DOMAINS = [
-  "adriver.ru", "clck.yandex.ru", "adfstat.yandex.ru", "an.yandex.ru", "market-click2.yandex.ru", "log.strm.yandex.ru", "appmetrica.com", "appmetrica.ru", "csp.yandex.net", "static-mon.yandex.net", "adfox.ru", "yandex.st", "metrika.yandex.ru", "appmetrica.yandex.ru", "metrika.yandex"
+  "adriver.ru", "clck.yandex.ru", "adfstat.yandex.ru", "an.yandex.ru", "market-click2.yandex.ru", "log.strm.yandex.ru", "appmetrica.com", "appmetrica.ru", "csp.yandex.net", "static-mon.yandex.net", "adfox.ru", "yandex.st", "metrika.yandex.ru", "appmetrica.yandex.ru", "metrika.yandex", "clck.ru"
 ];
 
 const ZEN_DOMAINS = [
